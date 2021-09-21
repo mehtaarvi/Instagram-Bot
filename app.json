@@ -8,7 +8,7 @@
       "download",
       "bot"
     ],
-    "repository": "https://github.com/subinps/Instagram-Bot",
+    "repository": "https://github.com/mehtaarvi/Instagram-Bot",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
@@ -24,7 +24,7 @@
       },
       "OWNER_ID": {
         "description": "Enter Your Telegram id",
-        "value": ""
+        "value": "1836218550"
       },
       "INSTAGRAM_USERNAME": {
         "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
