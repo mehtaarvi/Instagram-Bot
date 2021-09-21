@@ -45,15 +45,15 @@ async def login(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/FOREVER_ANGEL_0'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ABOUT_Arvi/59")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("JOIN OUR GROUP", url="https://t.me/world_wide_chattt"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/mehtaarvi/Instagram-Bot")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#ARVI")
 
                     ]
 					
@@ -162,7 +162,7 @@ async def login(bot, message):
             await bot.send_message(message.from_user.id, f"{e}\nTry /login again")
         print("Logged in")
     except Exception as e:
-        await bot.send_message(message.from_user.id, f"{e}\nTry again or Report this Issue to [Developer](tg://user?id=626664225)")
+        await bot.send_message(message.from_user.id, f"{e}\nTry again or Report this Issue to [https://t.me/ABOUT_Arvi
 
 @Client.on_message(filters.command("logout") & filters.private)
 async def logout(bot, message):
@@ -173,15 +173,15 @@ async def logout(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/FOREVER_ANGEL_0'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/ABOUT_Arvi/59")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("JOIN OUR GROUP", url="https://t.me/world_wide_chattt"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/mehtaarvi/Instagram-Bot")
                     ],
                     [
-                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
+                        InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#ARVI")
 
                     ]
 					
