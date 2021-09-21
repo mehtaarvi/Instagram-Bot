@@ -4,9 +4,9 @@ The most advanced Instagram Downloader Bot.
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) ARVI
 Copyright permission under MIT License
-License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
+License -> https://github.com/mehtaarvi/Instagram-Bot/blob/main/LICENSE
 ```
 
 
@@ -70,7 +70,7 @@ Example: /followers samantharuthprabhuoffl
 ```
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mehtaarvi/Instagram-Bot)
 
 Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
 
