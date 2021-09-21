@@ -53,13 +53,13 @@ async def cb_handler(bot: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
-                    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/FOREVER_ANGEL_0'),
+					InlineKeyboardButton("🤖Other Bots", url="https://t.me/https://t.me/ABOUT_Arvi/59"),
+                    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/ABOUT_ARVI")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("JOIN🧞‍♀️ OUR GROUP", url="https://t.me/world_wide_chattt"),
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/mehtaarvi/Instagram-Bot")
 				]
 			]
 			)
