@@ -97,9 +97,9 @@ Example: <code>/followers samantharuthprabhuoffl</code>
     HOME_TEXT = """
 <b>Helo, [{}](tg://user?id={})
 
-This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account. 
+This is a bot of [ARVI MEHTA](https://t.me/FOREVER_ANGEL_0)to manage his Instagram account. 
 I can only work for my master [{}](tg://user?id={}).
-But you can Deploy the same bot for your use from the below source code.
+But you can Deploy the same bot for your use from the below DEOLOY OWN BOT
 
 Use /help to know What I can Do?</b>
 """
