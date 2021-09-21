@@ -53,7 +53,7 @@ async def account(bot, message):
 					],
                     [
                         InlineKeyboardButton("JOIN OUR GROUP", url="https://t.me/world_wide_chattt"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/mehtaarvi/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#ARVI"),
